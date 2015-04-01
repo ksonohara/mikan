@@ -1,18 +1,24 @@
 # [Mikan](http://www.expertsoftware-i.com/product/mikan.php)
-###Python Web Framework
+###Python web framework
 
-Python 2.x Web Framework.
+Python 2.x web framework.
 
 ##Quick start
 Now making...
 
-##Versioning
-Project status is Prototype version.
+##Version and status
+Project status is prototype version.
 
 ##Changelog
 Now making...
 
+##Install
+Now making...
+
 ##Documentation
+Now making...
+
+##Example
 Now making...
 
 ##Copyright and license
